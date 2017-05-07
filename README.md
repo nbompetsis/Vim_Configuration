@@ -26,7 +26,7 @@ $ git clone https://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim
 
 ```
 Configure plugins :
-    Sample [.vimrc](https://github.com/nbompetsis/dot-my-vim/blob/master/.vimrc)
+.vimrc
 ```
 
 More information about Neobundle can be found [here](https://github.com/Shougo/neobundle.vim)
@@ -48,4 +48,8 @@ After that
 Launch vim
 run :NeoBundleInstall
 ```
+
+#Screenshots
+
+https://cloud.githubusercontent.com/assets/11991105/25785849/8ce3ba26-3392-11e7-9eaf-0931e5e38d95.png
 
