@@ -26,7 +26,7 @@ $ git clone https://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim
 
 ```
 Configure plugins :
-    Sample .vimrc:
+    Sample [.vimrc](https://github.com/nbompetsis/dot-my-vim/blob/master/.vimrc)
 ```
 
 More information about Neobundle can be found [here](https://github.com/Shougo/neobundle.vim)
@@ -36,7 +36,7 @@ More information about Neobundle can be found [here](https://github.com/Shougo/n
 
 When you want to setup a new vim plugin, make the following steps.
 
-1. For example, you decide to install [vim-fugitive](https://github.com/tpope/vim-fugitive)
+For example, you decide to install [vim-fugitive](https://github.com/tpope/vim-fugitive)
 
 Write the following line to your .vimrc file
 ```
