@@ -1,5 +1,4 @@
 # Vim Configuration
-This repository's purpose is to present my vim configuration.
 
 I recently decided to change my system's Vim text editor and use a refactor of this, Neovim. Neovim shares the same configuration syntax with Vim and the same config file can be used with both editors.
 
