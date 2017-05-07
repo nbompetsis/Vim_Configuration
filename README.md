@@ -49,7 +49,7 @@ Launch vim
 run :NeoBundleInstall
 ```
 
-#Screenshots
+# Screenshots
 
-https://cloud.githubusercontent.com/assets/11991105/25785849/8ce3ba26-3392-11e7-9eaf-0931e5e38d95.png
+![screen shot 2017-4-8](https://cloud.githubusercontent.com/assets/11991105/25785849/8ce3ba26-3392-11e7-9eaf-0931e5e38d95.png)
 
